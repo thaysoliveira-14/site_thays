@@ -119,6 +119,7 @@ h2 {
 .flyers img {
     height: 380px;
     box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.199);
+    margin-bottom: 25px;
 }
 
 .flyers img:hover {
@@ -209,8 +210,6 @@ footer {
     text-align: center;
     color: #fff;
 }
-
-
 
 
 
